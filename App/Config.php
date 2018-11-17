@@ -32,5 +32,5 @@ class Config
      * Database password
      * @var string
      */
-    const DB_PASSWORD = 'mysql';
+    const DB_PASSWORD = 'secret';
 }
